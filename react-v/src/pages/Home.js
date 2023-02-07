@@ -11,7 +11,7 @@ const Home = () => {
                             <h2 className="title-2">Frontend</h2>
                             <p>
                                 JavaScript, TypeScript, ReactJS, Redux,
-                                CSS, BootStrap, MaterialUI, Yarn,
+                                CSS, BootStrap, MaterialUI,
                                 TailwindCSS, StyledComponents
                             </p>
                         </li>
